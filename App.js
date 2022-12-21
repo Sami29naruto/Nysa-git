@@ -5,9 +5,9 @@ import Inscription from "./components/Inscription";
 export default function App() {
   return (
     <View style={styles.button}>
-      <Text>deuxieme test</Text>
+      <Text>Tokyo Revengers</Text>
       <Pressable style={styles.btn}>
-        <Text>excellent</Text>
+        <Text>GOAT level, 3ayeb ki ma kemeltich FMA</Text>
       </Pressable>
       <Inscription />
     </View>
