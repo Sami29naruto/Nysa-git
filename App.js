@@ -5,9 +5,9 @@ import Inscription from "./components/Inscription";
 export default function App() {
   return (
     <View style={styles.button}>
-      <Text>Ataque des titans</Text>
+      <Text>Yuyu Hakusho</Text>
       <Pressable style={styles.btn}>
-        <Text>Amir</Text>
+        <Text>Amira</Text>
       </Pressable>
       <Inscription />
     </View>
